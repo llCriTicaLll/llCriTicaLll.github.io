@@ -1,0 +1,28 @@
+.oneline {
+	font-family:'Noticia Text', serif;
+	font-size: 90px;
+	text-align:center;
+}
+
+  .themeBtn4 {
+    background: #006eff;
+    color: #ffffff !important;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 500;
+    height: 50px;
+    line-height: 0.8;
+    padding: 18px 100px;
+    text-transform: capitalize;
+    border-radius: 1px;
+    letter-spacing: 0.5px;
+	border:0px !important;
+	cursor:pointer;
+	border-radius:100px;
+
+}
+.themeBtn4:hover {
+    background: rgb(125, 10, 255);
+    color: #ffffff;
+    box-shadow: 0 10px 25px -2px rgba(0, 110, 255, 0.6);
+}
